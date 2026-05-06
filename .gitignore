@@ -1,0 +1,26 @@
+.venv/
+cache/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Python cache and tooling
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Local notebook files
+*.ipynb
+
+# Intermediate / temporary datasets
+f1_2020_2026.csv
+f1_2020_2025.csv
+f1_2020_2025_progress.csv
+f1_encoded.csv
+f1_2023_ready.csv
+f1_ml_dataset.csv
+monaco_2023_results.csv
+brazil_2023_results.csv
+silverstone_2023_results.csv

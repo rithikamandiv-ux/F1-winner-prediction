@@ -1,0 +1,89 @@
+DriverNumber,BroadcastName,Abbreviation,DriverId,TeamName,TeamColor,TeamId,FirstName,LastName,FullName,HeadshotUrl,CountryCode,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,Laps,q_pos,race_id,is_winner
+63,,RUS,russell,Mercedes,,mercedes,George,Russell,George Russell,,,1.0,1,1.0,,,,0 days 01:23:06.801000,Finished,25.0,58.0,1.0,2026-Australian Grand Prix,1
+12,,ANT,antonelli,Mercedes,,mercedes,Andrea Kimi,Antonelli,Andrea Kimi Antonelli,,,2.0,2,2.0,,,,0 days 00:00:02.974000,Finished,18.0,58.0,2.0,2026-Australian Grand Prix,0
+16,,LEC,leclerc,Ferrari,,ferrari,Charles,Leclerc,Charles Leclerc,,,3.0,3,4.0,,,,0 days 00:00:15.519000,Finished,15.0,58.0,4.0,2026-Australian Grand Prix,0
+44,,HAM,hamilton,Ferrari,,ferrari,Lewis,Hamilton,Lewis Hamilton,,,4.0,4,7.0,,,,0 days 00:00:16.144000,Finished,12.0,58.0,7.0,2026-Australian Grand Prix,0
+1,,NOR,norris,McLaren,,mclaren,Lando,Norris,Lando Norris,,,5.0,5,6.0,,,,0 days 00:00:51.741000,Finished,10.0,58.0,6.0,2026-Australian Grand Prix,0
+3,,VER,max_verstappen,Red Bull,,red_bull,Max,Verstappen,Max Verstappen,,,6.0,6,20.0,,,,0 days 00:00:54.617000,Finished,8.0,58.0,,2026-Australian Grand Prix,0
+87,,BEA,bearman,Haas F1 Team,,haas,Oliver,Bearman,Oliver Bearman,,,7.0,7,12.0,,,,0 days 00:00:04.593000,Lapped,6.0,57.0,12.0,2026-Australian Grand Prix,0
+41,,LIN,arvid_lindblad,RB F1 Team,,rb,Arvid,Lindblad,Arvid Lindblad,,,8.0,8,9.0,,,,0 days 00:00:11.816000,Lapped,4.0,57.0,9.0,2026-Australian Grand Prix,0
+5,,BOR,bortoleto,Audi,,audi,Gabriel,Bortoleto,Gabriel Bortoleto,,,9.0,9,10.0,,,,0 days 00:00:12.775000,Lapped,2.0,57.0,10.0,2026-Australian Grand Prix,0
+10,,GAS,gasly,Alpine F1 Team,,alpine,Pierre,Gasly,Pierre Gasly,,,10.0,10,14.0,,,,0 days 00:00:29.027000,Lapped,1.0,57.0,14.0,2026-Australian Grand Prix,0
+31,,OCO,ocon,Haas F1 Team,,haas,Esteban,Ocon,Esteban Ocon,,,11.0,11,13.0,,,,0 days 00:00:29.850000,Lapped,0.0,57.0,13.0,2026-Australian Grand Prix,0
+23,,ALB,albon,Williams,,williams,Alexander,Albon,Alexander Albon,,,12.0,12,15.0,,,,0 days 00:00:56.075000,Lapped,0.0,57.0,15.0,2026-Australian Grand Prix,0
+30,,LAW,lawson,RB F1 Team,,rb,Liam,Lawson,Liam Lawson,,,13.0,13,8.0,,,,0 days 00:00:57.173000,Lapped,0.0,57.0,8.0,2026-Australian Grand Prix,0
+43,,COL,colapinto,Alpine F1 Team,,alpine,Franco,Colapinto,Franco Colapinto,,,14.0,14,16.0,,,,0 days 00:00:08.487000,Lapped,0.0,56.0,16.0,2026-Australian Grand Prix,0
+55,,SAI,sainz,Williams,,williams,Carlos,Sainz,Carlos Sainz,,,15.0,15,21.0,,,,0 days 00:00:36.886000,Lapped,0.0,56.0,,2026-Australian Grand Prix,0
+11,,PER,perez,Cadillac F1 Team,,cadillac,Sergio,Pérez,Sergio Pérez,,,16.0,16,18.0,,,,0 days 00:00:07.850000,Lapped,0.0,55.0,18.0,2026-Australian Grand Prix,0
+18,,STR,stroll,Aston Martin,,aston_martin,Lance,Stroll,Lance Stroll,,,17.0,R,22.0,,,,,Lapped,0.0,43.0,,2026-Australian Grand Prix,0
+14,,ALO,alonso,Aston Martin,,aston_martin,Fernando,Alonso,Fernando Alonso,,,18.0,R,17.0,,,,,Retired,0.0,21.0,17.0,2026-Australian Grand Prix,0
+77,,BOT,bottas,Cadillac F1 Team,,cadillac,Valtteri,Bottas,Valtteri Bottas,,,19.0,R,19.0,,,,,Retired,0.0,15.0,19.0,2026-Australian Grand Prix,0
+6,,HAD,hadjar,Red Bull,,red_bull,Isack,Hadjar,Isack Hadjar,,,20.0,R,3.0,,,,,Retired,0.0,10.0,3.0,2026-Australian Grand Prix,0
+81,,PIA,piastri,McLaren,,mclaren,Oscar,Piastri,Oscar Piastri,,,21.0,W,5.0,,,,,Did not start,0.0,0.0,5.0,2026-Australian Grand Prix,0
+27,,HUL,hulkenberg,Audi,,audi,Nico,Hülkenberg,Nico Hülkenberg,,,22.0,W,11.0,,,,,Did not start,0.0,0.0,11.0,2026-Australian Grand Prix,0
+12,,ANT,antonelli,Mercedes,,mercedes,Andrea Kimi,Antonelli,Andrea Kimi Antonelli,,,1.0,1,1.0,,,,0 days 01:33:15.607000,Finished,25.0,56.0,1.0,2026-Chinese Grand Prix,1
+63,,RUS,russell,Mercedes,,mercedes,George,Russell,George Russell,,,2.0,2,2.0,,,,0 days 00:00:05.515000,Finished,18.0,56.0,2.0,2026-Chinese Grand Prix,0
+44,,HAM,hamilton,Ferrari,,ferrari,Lewis,Hamilton,Lewis Hamilton,,,3.0,3,3.0,,,,0 days 00:00:25.267000,Finished,15.0,56.0,3.0,2026-Chinese Grand Prix,0
+16,,LEC,leclerc,Ferrari,,ferrari,Charles,Leclerc,Charles Leclerc,,,4.0,4,4.0,,,,0 days 00:00:28.894000,Finished,12.0,56.0,4.0,2026-Chinese Grand Prix,0
+87,,BEA,bearman,Haas F1 Team,,haas,Oliver,Bearman,Oliver Bearman,,,5.0,5,10.0,,,,0 days 00:00:57.268000,Finished,10.0,56.0,10.0,2026-Chinese Grand Prix,0
+10,,GAS,gasly,Alpine F1 Team,,alpine,Pierre,Gasly,Pierre Gasly,,,6.0,6,7.0,,,,0 days 00:00:59.647000,Finished,8.0,56.0,7.0,2026-Chinese Grand Prix,0
+30,,LAW,lawson,RB F1 Team,,rb,Liam,Lawson,Liam Lawson,,,7.0,7,14.0,,,,0 days 00:01:20.588000,Finished,6.0,56.0,14.0,2026-Chinese Grand Prix,0
+6,,HAD,hadjar,Red Bull,,red_bull,Isack,Hadjar,Isack Hadjar,,,8.0,8,9.0,,,,0 days 00:01:27.247000,Finished,4.0,56.0,9.0,2026-Chinese Grand Prix,0
+55,,SAI,sainz,Williams,,williams,Carlos,Sainz,Carlos Sainz,,,9.0,9,17.0,,,,0 days 00:00:11.673000,Lapped,2.0,55.0,17.0,2026-Chinese Grand Prix,0
+43,,COL,colapinto,Alpine F1 Team,,alpine,Franco,Colapinto,Franco Colapinto,,,10.0,10,12.0,,,,0 days 00:00:12.403000,Lapped,1.0,55.0,12.0,2026-Chinese Grand Prix,0
+27,,HUL,hulkenberg,Audi,,audi,Nico,Hülkenberg,Nico Hülkenberg,,,11.0,11,11.0,,,,0 days 00:00:21.109000,Lapped,0.0,55.0,11.0,2026-Chinese Grand Prix,0
+41,,LIN,arvid_lindblad,RB F1 Team,,rb,Arvid,Lindblad,Arvid Lindblad,,,12.0,12,15.0,,,,0 days 00:00:22.828000,Lapped,0.0,55.0,15.0,2026-Chinese Grand Prix,0
+77,,BOT,bottas,Cadillac F1 Team,,cadillac,Valtteri,Bottas,Valtteri Bottas,,,13.0,13,19.0,,,,0 days 00:00:56.158000,Lapped,0.0,55.0,20.0,2026-Chinese Grand Prix,0
+31,,OCO,ocon,Haas F1 Team,,haas,Esteban,Ocon,Esteban Ocon,,,14.0,14,13.0,,,,0 days 00:01:06.256000,Lapped,0.0,55.0,13.0,2026-Chinese Grand Prix,0
+11,,PER,perez,Cadillac F1 Team,,cadillac,Sergio,Pérez,Sergio Pérez,,,15.0,15,21.0,,,,0 days 00:01:14.641000,Lapped,0.0,55.0,22.0,2026-Chinese Grand Prix,0
+3,,VER,max_verstappen,Red Bull,,red_bull,Max,Verstappen,Max Verstappen,,,16.0,R,8.0,,,,,Retired,0.0,45.0,8.0,2026-Chinese Grand Prix,0
+14,,ALO,alonso,Aston Martin,,aston_martin,Fernando,Alonso,Fernando Alonso,,,17.0,R,18.0,,,,,Retired,0.0,32.0,19.0,2026-Chinese Grand Prix,0
+18,,STR,stroll,Aston Martin,,aston_martin,Lance,Stroll,Lance Stroll,,,18.0,R,20.0,,,,,Retired,0.0,9.0,21.0,2026-Chinese Grand Prix,0
+81,,PIA,piastri,McLaren,,mclaren,Oscar,Piastri,Oscar Piastri,,,19.0,W,5.0,,,,,Did not start,0.0,0.0,5.0,2026-Chinese Grand Prix,0
+1,,NOR,norris,McLaren,,mclaren,Lando,Norris,Lando Norris,,,20.0,W,6.0,,,,,Did not start,0.0,0.0,6.0,2026-Chinese Grand Prix,0
+5,,BOR,bortoleto,Audi,,audi,Gabriel,Bortoleto,Gabriel Bortoleto,,,21.0,W,16.0,,,,,Did not start,0.0,0.0,16.0,2026-Chinese Grand Prix,0
+23,,ALB,albon,Williams,,williams,Alexander,Albon,Alexander Albon,,,22.0,W,22.0,,,,,Did not start,0.0,0.0,18.0,2026-Chinese Grand Prix,0
+12,,ANT,antonelli,Mercedes,,mercedes,Andrea Kimi,Antonelli,Andrea Kimi Antonelli,,,1.0,1,1.0,,,,0 days 01:28:03.403000,Finished,25.0,53.0,1.0,2026-Japanese Grand Prix,1
+81,,PIA,piastri,McLaren,,mclaren,Oscar,Piastri,Oscar Piastri,,,2.0,2,3.0,,,,0 days 00:00:13.722000,Finished,18.0,53.0,3.0,2026-Japanese Grand Prix,0
+16,,LEC,leclerc,Ferrari,,ferrari,Charles,Leclerc,Charles Leclerc,,,3.0,3,4.0,,,,0 days 00:00:15.270000,Finished,15.0,53.0,4.0,2026-Japanese Grand Prix,0
+63,,RUS,russell,Mercedes,,mercedes,George,Russell,George Russell,,,4.0,4,2.0,,,,0 days 00:00:15.754000,Finished,12.0,53.0,2.0,2026-Japanese Grand Prix,0
+1,,NOR,norris,McLaren,,mclaren,Lando,Norris,Lando Norris,,,5.0,5,5.0,,,,0 days 00:00:23.479000,Finished,10.0,53.0,5.0,2026-Japanese Grand Prix,0
+44,,HAM,hamilton,Ferrari,,ferrari,Lewis,Hamilton,Lewis Hamilton,,,6.0,6,6.0,,,,0 days 00:00:25.037000,Finished,8.0,53.0,6.0,2026-Japanese Grand Prix,0
+10,,GAS,gasly,Alpine F1 Team,,alpine,Pierre,Gasly,Pierre Gasly,,,7.0,7,7.0,,,,0 days 00:00:32.340000,Finished,6.0,53.0,7.0,2026-Japanese Grand Prix,0
+3,,VER,max_verstappen,Red Bull,,red_bull,Max,Verstappen,Max Verstappen,,,8.0,8,11.0,,,,0 days 00:00:32.677000,Finished,4.0,53.0,11.0,2026-Japanese Grand Prix,0
+30,,LAW,lawson,RB F1 Team,,rb,Liam,Lawson,Liam Lawson,,,9.0,9,14.0,,,,0 days 00:00:50.180000,Finished,2.0,53.0,14.0,2026-Japanese Grand Prix,0
+31,,OCO,ocon,Haas F1 Team,,haas,Esteban,Ocon,Esteban Ocon,,,10.0,10,12.0,,,,0 days 00:00:51.216000,Finished,1.0,53.0,12.0,2026-Japanese Grand Prix,0
+27,,HUL,hulkenberg,Audi,,audi,Nico,Hülkenberg,Nico Hülkenberg,,,11.0,11,13.0,,,,0 days 00:00:52.280000,Finished,0.0,53.0,13.0,2026-Japanese Grand Prix,0
+6,,HAD,hadjar,Red Bull,,red_bull,Isack,Hadjar,Isack Hadjar,,,12.0,12,8.0,,,,0 days 00:00:56.154000,Finished,0.0,53.0,8.0,2026-Japanese Grand Prix,0
+5,,BOR,bortoleto,Audi,,audi,Gabriel,Bortoleto,Gabriel Bortoleto,,,13.0,13,9.0,,,,0 days 00:00:59.078000,Finished,0.0,53.0,9.0,2026-Japanese Grand Prix,0
+41,,LIN,arvid_lindblad,RB F1 Team,,rb,Arvid,Lindblad,Arvid Lindblad,,,14.0,14,10.0,,,,0 days 00:00:59.848000,Finished,0.0,53.0,10.0,2026-Japanese Grand Prix,0
+55,,SAI,sainz,Williams,,williams,Carlos,Sainz,Carlos Sainz,,,15.0,15,16.0,,,,0 days 00:01:05.008000,Finished,0.0,53.0,16.0,2026-Japanese Grand Prix,0
+43,,COL,colapinto,Alpine F1 Team,,alpine,Franco,Colapinto,Franco Colapinto,,,16.0,16,15.0,,,,0 days 00:01:05.773000,Finished,0.0,53.0,15.0,2026-Japanese Grand Prix,0
+11,,PER,perez,Cadillac F1 Team,,cadillac,Sergio,Pérez,Sergio Pérez,,,17.0,17,19.0,,,,0 days 00:01:32.453000,Finished,0.0,53.0,19.0,2026-Japanese Grand Prix,0
+14,,ALO,alonso,Aston Martin,,aston_martin,Fernando,Alonso,Fernando Alonso,,,18.0,18,21.0,,,,0 days 00:00:26.548000,Lapped,0.0,52.0,21.0,2026-Japanese Grand Prix,0
+77,,BOT,bottas,Cadillac F1 Team,,cadillac,Valtteri,Bottas,Valtteri Bottas,,,19.0,19,20.0,,,,0 days 00:00:42.621000,Lapped,0.0,52.0,20.0,2026-Japanese Grand Prix,0
+23,,ALB,albon,Williams,,williams,Alexander,Albon,Alexander Albon,,,20.0,20,17.0,,,,0 days 00:00:05.067000,Lapped,0.0,51.0,17.0,2026-Japanese Grand Prix,0
+18,,STR,stroll,Aston Martin,,aston_martin,Lance,Stroll,Lance Stroll,,,21.0,R,22.0,,,,,Retired,0.0,30.0,22.0,2026-Japanese Grand Prix,0
+87,,BEA,bearman,Haas F1 Team,,haas,Oliver,Bearman,Oliver Bearman,,,22.0,R,18.0,,,,,Retired,0.0,20.0,18.0,2026-Japanese Grand Prix,0
+12,,ANT,antonelli,Mercedes,,mercedes,Andrea Kimi,Antonelli,Andrea Kimi Antonelli,,,1.0,1,1.0,,,,0 days 01:33:19.273000,Finished,25.0,57.0,1.0,2026-Miami Grand Prix,1
+1,,NOR,norris,McLaren,,mclaren,Lando,Norris,Lando Norris,,,2.0,2,4.0,,,,0 days 00:00:03.264000,Finished,18.0,57.0,4.0,2026-Miami Grand Prix,0
+81,,PIA,piastri,McLaren,,mclaren,Oscar,Piastri,Oscar Piastri,,,3.0,3,7.0,,,,0 days 00:00:27.092000,Finished,15.0,57.0,7.0,2026-Miami Grand Prix,0
+63,,RUS,russell,Mercedes,,mercedes,George,Russell,George Russell,,,4.0,4,5.0,,,,0 days 00:00:43.051000,Finished,12.0,57.0,5.0,2026-Miami Grand Prix,0
+3,,VER,max_verstappen,Red Bull,,red_bull,Max,Verstappen,Max Verstappen,,,5.0,5,2.0,,,,0 days 00:00:48.949000,Finished,10.0,57.0,2.0,2026-Miami Grand Prix,0
+44,,HAM,hamilton,Ferrari,,ferrari,Lewis,Hamilton,Lewis Hamilton,,,6.0,6,6.0,,,,0 days 00:00:53.753000,Finished,8.0,57.0,6.0,2026-Miami Grand Prix,0
+43,,COL,colapinto,Alpine F1 Team,,alpine,Franco,Colapinto,Franco Colapinto,,,7.0,7,8.0,,,,0 days 00:01:01.871000,Finished,6.0,57.0,8.0,2026-Miami Grand Prix,0
+16,,LEC,leclerc,Ferrari,,ferrari,Charles,Leclerc,Charles Leclerc,,,8.0,8,3.0,,,,0 days 00:01:04.245000,Finished,4.0,57.0,3.0,2026-Miami Grand Prix,0
+55,,SAI,sainz,Williams,,williams,Carlos,Sainz,Carlos Sainz,,,9.0,9,13.0,,,,0 days 00:01:22.072000,Finished,2.0,57.0,13.0,2026-Miami Grand Prix,0
+23,,ALB,albon,Williams,,williams,Alexander,Albon,Alexander Albon,,,10.0,10,15.0,,,,0 days 00:01:30.972000,Finished,1.0,57.0,15.0,2026-Miami Grand Prix,0
+87,,BEA,bearman,Haas F1 Team,,haas,Oliver,Bearman,Oliver Bearman,,,11.0,11,12.0,,,,0 days 00:00:06.400000,Lapped,0.0,56.0,12.0,2026-Miami Grand Prix,0
+5,,BOR,bortoleto,Audi,,audi,Gabriel,Bortoleto,Gabriel Bortoleto,,,12.0,12,21.0,,,,0 days 00:00:09.353000,Lapped,0.0,56.0,21.0,2026-Miami Grand Prix,0
+31,,OCO,ocon,Haas F1 Team,,haas,Esteban,Ocon,Esteban Ocon,,,13.0,13,14.0,,,,0 days 00:00:13.873000,Lapped,0.0,56.0,14.0,2026-Miami Grand Prix,0
+41,,LIN,arvid_lindblad,RB F1 Team,,rb,Arvid,Lindblad,Arvid Lindblad,,,14.0,14,16.0,,,,0 days 00:00:44.781000,Lapped,0.0,56.0,16.0,2026-Miami Grand Prix,0
+14,,ALO,alonso,Aston Martin,,aston_martin,Fernando,Alonso,Fernando Alonso,,,15.0,15,17.0,,,,0 days 00:01:14.964000,Lapped,0.0,56.0,17.0,2026-Miami Grand Prix,0
+11,,PER,perez,Cadillac F1 Team,,cadillac,Sergio,Pérez,Sergio Pérez,,,16.0,16,20.0,,,,0 days 00:01:17.513000,Lapped,0.0,56.0,20.0,2026-Miami Grand Prix,0
+18,,STR,stroll,Aston Martin,,aston_martin,Lance,Stroll,Lance Stroll,,,17.0,17,18.0,,,,0 days 00:01:22.631000,Lapped,0.0,56.0,18.0,2026-Miami Grand Prix,0
+77,,BOT,bottas,Cadillac F1 Team,,cadillac,Valtteri,Bottas,Valtteri Bottas,,,18.0,18,19.0,,,,0 days 00:01:08.255000,Lapped,0.0,55.0,19.0,2026-Miami Grand Prix,0
+27,,HUL,hulkenberg,Audi,,audi,Nico,Hülkenberg,Nico Hülkenberg,,,19.0,R,10.0,,,,,Retired,0.0,7.0,10.0,2026-Miami Grand Prix,0
+30,,LAW,lawson,RB F1 Team,,rb,Liam,Lawson,Liam Lawson,,,20.0,R,11.0,,,,,Retired,0.0,6.0,11.0,2026-Miami Grand Prix,0
+10,,GAS,gasly,Alpine F1 Team,,alpine,Pierre,Gasly,Pierre Gasly,,,21.0,R,9.0,,,,,Retired,0.0,4.0,9.0,2026-Miami Grand Prix,0
+6,,HAD,hadjar,Red Bull,,red_bull,Isack,Hadjar,Isack Hadjar,,,22.0,R,22.0,,,,,Retired,0.0,4.0,22.0,2026-Miami Grand Prix,0
